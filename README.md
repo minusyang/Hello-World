@@ -1,5 +1,5 @@
 # Hello-World
 my first git repository
 
-#include "cv.h"
+include "cv.h"
 如何配置OPENCV
